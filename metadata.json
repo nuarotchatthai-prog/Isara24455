@@ -1,0 +1,8 @@
+{
+  "name": "Remix ISARA - แฟชั่นมอลล์ \u0026 AI ลองชุด",
+  "description": "แอปพลิเคชันขายเสื้อผ้าแฟชั่นสไตล์ TikTok ครบวงจร พร้อมฟีเจอร์ AI ลองชุดเสมือนจริง และระบบจัดการหลังบ้าน",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
